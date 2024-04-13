@@ -1,4 +1,4 @@
-package App03;
+package app03;
 
 public class ModificandoVisibilidade {
 
